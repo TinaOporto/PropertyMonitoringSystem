@@ -1,0 +1,17 @@
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\bin\Debug\PropertyMonitoringSystem.exe.config
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\bin\Debug\PropertyMonitoringSystem.exe
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\bin\Debug\PropertyMonitoringSystem.pdb
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.LoginForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.Properties.Resources.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.csproj.GenerateResource.Cache
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.exe
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.pdb
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.EmployeeForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.UserForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.InventoryForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.MainMDIForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.ReportForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.TransactionForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.WelcomeForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.DesignationForm.resources
+C:\Users\OJT\Desktop\MainProject\PropertyMonitoringSystem\PropertyMonitoringSystem\obj\Debug\PropertyMonitoringSystem.csprojResolveAssemblyReference.cache
